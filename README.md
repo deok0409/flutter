@@ -1,16 +1,8 @@
-# testflutter
+#Flutter 로 구글지도 API 사용하기
 
-A new Flutter project.
+-마커생성-
+--마커클릭시 INFOWINDOW 표출
+--INFOWINDOW 클릭시 하단에 wiget으로 마커 정보 출력및 경로미리보기 버튼
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-경로 미리보기-
+--경로 미리보기 클릭시 polyline으로 그려진 구글 지도 패이지 표출
