@@ -2,9 +2,9 @@
 
 -마커생성-
 
---마커클릭시 INFOWINDOW 표출
+--마커클릭시 infowindow 표출
 
---INFOWINDOW 클릭시 하단에 wiget으로 마커 정보 출력및 경로미리보기 버튼
+--infowindow 클릭시 하단에 wiget으로 마커 정보 출력및 경로미리보기 버튼
 
 -경로 미리보기-
 
